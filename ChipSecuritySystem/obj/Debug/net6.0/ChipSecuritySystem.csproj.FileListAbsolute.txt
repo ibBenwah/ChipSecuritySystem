@@ -1,0 +1,15 @@
+C:\ChipSecuritySystem\ChipSecuritySystem\ChipSecuritySystem\bin\Debug\net6.0\ChipSecuritySystem.exe
+C:\ChipSecuritySystem\ChipSecuritySystem\ChipSecuritySystem\bin\Debug\net6.0\ChipSecuritySystem.deps.json
+C:\ChipSecuritySystem\ChipSecuritySystem\ChipSecuritySystem\bin\Debug\net6.0\ChipSecuritySystem.runtimeconfig.json
+C:\ChipSecuritySystem\ChipSecuritySystem\ChipSecuritySystem\bin\Debug\net6.0\ChipSecuritySystem.dll
+C:\ChipSecuritySystem\ChipSecuritySystem\ChipSecuritySystem\bin\Debug\net6.0\ChipSecuritySystem.pdb
+C:\ChipSecuritySystem\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\net6.0\ChipSecuritySystem.csproj.AssemblyReference.cache
+C:\ChipSecuritySystem\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\net6.0\ChipSecuritySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\ChipSecuritySystem\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\net6.0\ChipSecuritySystem.AssemblyInfoInputs.cache
+C:\ChipSecuritySystem\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\net6.0\ChipSecuritySystem.AssemblyInfo.cs
+C:\ChipSecuritySystem\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\net6.0\ChipSecuritySystem.csproj.CoreCompileInputs.cache
+C:\ChipSecuritySystem\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\net6.0\ChipSecuritySystem.dll
+C:\ChipSecuritySystem\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\net6.0\refint\ChipSecuritySystem.dll
+C:\ChipSecuritySystem\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\net6.0\ChipSecuritySystem.pdb
+C:\ChipSecuritySystem\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\net6.0\ChipSecuritySystem.genruntimeconfig.cache
+C:\ChipSecuritySystem\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\net6.0\ref\ChipSecuritySystem.dll
